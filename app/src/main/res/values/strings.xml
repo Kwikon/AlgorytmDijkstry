@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mikołaj Zabiegałowski</string>
+    <string name="graph_value">Wartość wykresu</string>
+    <string name="apply_button">Znajdź ścierzkę</string>
+    <string name="graph_button">Wykres</string>
+    <string name="connect_button">Połącz</string>
+    <string name="cost_button">Cost</string>
+    <string name="value_text">Wynik</string>
+
+</resources>
